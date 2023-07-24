@@ -20,12 +20,6 @@
             outline: none;
         }
 
-body {
-    background-image: url('https://xiaohan17.oss-cn-hangzhou.aliyuncs.com/90049844_p0_master1200.jpg');
-    background-size: cover;
-}
-
-
         body {
             display: flex;
             justify-content: center;
