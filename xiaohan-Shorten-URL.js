@@ -19,12 +19,6 @@
             text-align: center;
             outline: none;
         }
-window.onload = function() {
-    document.body.style.backgroundImage = "url('https://xiaohan17.oss-cn-hangzhou.aliyuncs.com/90049844_p0_master1200.jpg')";
-    document.body.style.backgroundSize = "cover";  // Optional: Cover the entire viewport
-    document.body.style.backgroundRepeat = "no-repeat";  // Optional: Do not repeat the image
-    document.body.style.backgroundPosition = "center";  // Optional: Center the image
-};
 
         body {
             display: flex;
